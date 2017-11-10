@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'send_message' => 'Pošalji poruku',
+    'contact' => 'Kontakt',
+    'info' => 'Info',
+    'monday' => 'Ponedeljak',
+    'tuesday' => 'Utorak',
+    'wednesday' => 'Sreda',
+    'thursday' => 'Cetvrtak',
+    'friday' => 'Petak',
+    'saturday' => 'Subota',
+    'sunday' => 'Nedelja',
+    'address' => 'Adresa',
+    '247' => '24h Radno Vreme',
+    'home_delivery' => 'Dolazak na kucnu adresu',
+    'phones' => 'Telefon',
+    'chose_cat' => 'Izaberite kategoriju',
+    'chose_city' => 'Izaberite grad',
+    'filters' => 'Filteri',
+    'distance' => 'Po daljini',
+    'online_paying' => 'Online placanja',
+    'messages' => 'Sve poruke',
+    'openedAtm' => 'Otvoreno',
+    'closedAtm' => 'Zatvoreno',
+    'add_image' => 'Dodaj sliku',
+    'working_hours' => 'Dodaj sliku',
+    'to_from' => 'Do',
+    'from_to' => 'Od',
+    'save_hours' => 'Sacuvaj radno vreme',
+    'success' => 'Uspeh'
+];

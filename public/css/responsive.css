@@ -1,0 +1,894 @@
+@media all and (max-width: 1310px){
+    .body-container{
+        overflow: hidden;
+        overflow-y: auto;
+    }
+    .container-big{
+        width: 98%;
+        margin: 0 1%
+    }
+    .top-menu .profile {
+        width: auto;
+        max-width: 50%;
+    }
+    .navigation-box {
+        width: 108px;
+    }
+    .navigation-wrapper{
+        width: 1110px;
+        margin: 0 auto;
+    }
+    .bid-options {
+        margin: 0 0 5px 0;
+    }
+    .tabs-content-chat input {
+        max-width: 58%;
+    }
+    .footer-navigation ul li {
+        margin-right: 29px;
+    }
+    .footer-subnavigation ul{
+        margin-right: 30px
+    }
+}
+@media all and (max-width: 1120px){
+    .container{
+        width: 98%;
+        margin: 0 1%
+    }
+    .top-menu{
+        padding: 20px 0
+    }
+    .top-menu .profile {
+        width: auto;
+        max-width: 70%;
+    }
+    .navigation-wrapper {
+        width: 768px;
+    }
+    .navigation-box {
+        width: 73px;
+    }
+    .navigation-box-wrapp{
+        border-right: 0
+    }
+    .navigation-image {
+        width: 50%;
+        margin: 9px 25% 0 25%
+    }
+    .navigation-box span{
+        font-size: 13px;
+    }
+    .inbox-search input[type="text"] {
+        width: 75%;
+    }
+    .tabs-sidebar .inbox-date {
+        clear: both;
+        margin: 3px 0 0 90px;
+    }
+    .tabs-message .tabs-message-text {
+        width: 80%;
+    }
+    .bid-options{
+        margin-top: 10px
+    }
+    .bid-options,
+    .tabs-message .tabs-message-text .bid-wrapp {
+        max-width: 100%;
+        width: 100%;
+    }
+    .tabs-content-chat input {
+        max-width: 36%;
+    }
+    footer {
+        height: auto;
+        display: block;
+        width: 100%;
+        float: left;
+    }
+     .profile-search {
+        position: absolute;
+        bottom: -10px;
+        right: 15px;
+        z-index: 9;
+        background: none;
+    }
+    .profile-search-form{
+        right: 0;
+        display: block;
+    }
+    .profile-search-trigger{
+        background: none
+    }
+    .tables-box ul{
+        min-height: 390px
+    }
+    .user-selling ul li.name {
+        max-width: 56%;
+    }
+    .user-image {
+        margin-left: 0;
+    }
+    .user-media-image {
+        height: 200px;
+    }
+    .review-box .review-data {
+        width: 70%;
+    }
+    .register-body {
+        width: 90%;
+        margin: 17px 5% 74px 5%;
+    }
+    .popup-wrapp {
+        width: 88%;
+        margin-left: 0;
+        top: 5%;
+        left: 6%;
+    }
+    .form-group.time, .form-group.date{
+        width: 24%;
+    }
+    .form-group.ammount,
+    .form-group.bid-number{
+        width: 49%;
+        float: left;
+    }
+    .form-group.time {
+        margin-left: 1%;
+    }
+    .form-group.upload {
+        max-width: 55%;
+        width: 100%;
+    }
+    .popup-body{
+        max-height: 450px;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+    .main-search{
+        height: auto
+    }
+    .main-search form{
+        margin: 100px 0;
+    }
+    .main-search input[type="text"] {
+        width: 40%;
+    }
+    .main-search .jcf-select {
+        height: 59px;
+    }
+    .footer-subnavigation ul{
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+    .footer-subnavigation ul li {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .footer-subnavigation ul li ul li {
+        display: inline;
+        bottom:-10px;
+/*        margin-bottom: 30px;*/
+    }
+/*
+    .footer-subnavigation ul:nth-child(4n+1){
+        clear: both;
+    }
+*/
+    .filters-left,
+    .filters-right,
+    .filters-expand-left,
+    .filters-expand-right{
+        width: 50%
+    }
+    .filters-expand-left .clr{
+        display: none;
+    }
+    .filters-expand .form-group-checkbox {
+        margin: 0 40px 40px 0;
+    }
+    .results-box .results-contacts {
+        width: 60%;
+        clear: both;
+        margin: 15px 0 0 100px;
+    }
+    .results-message a {
+        margin-top: 43px;
+    }
+}
+@media all and (max-width: 767px){
+    .top-menu .logo {
+        float: none!important;
+        margin: 0 auto;
+        display: block;
+    }
+    .top-menu .profile{
+        max-width: 100%;
+        width: 100%
+    }
+    .app-download {
+        margin: 1px 0 0 30px;
+    }
+    .profile-search {
+        bottom: -47px;
+    }
+    .profile-dropdown{
+        z-index: 99
+    }
+    .navigation{
+        height: 40px;
+        position: relative;
+    }
+    .navigation-trigger{
+        display: block;
+    }
+    .navigation-wrapper{
+        display: none;
+        width: 100%;
+        background: #22b25b;
+        z-index: 9;
+        position: absolute;
+        top: 40px;
+        left: 0;
+        margin: 0
+    }
+    .navigation-box {
+        width: 100%;
+        height: auto;
+        padding: 5px 0;
+        text-align: left;
+        border-bottom: 1px solid #fff;
+    }
+    .navigation-box:hover {
+        background: #22b25b;
+    }
+    .navigation-box-wrapp{
+        margin: 0;
+        border-right: 0
+    }
+    .navigation-image {
+        width: 40px;
+        float: left;
+        margin: 0;
+    }
+    .navigation-box span {
+        max-width: 85%;
+        margin: 13px 0 0 15px
+    }
+    .navigation-box span br,
+    .navigation-dropdown-dec{
+        display: none;
+    }
+    .navigation-dropdown {
+        width: 100%;
+        position: relative;
+        top: 0;
+        left: 0;
+        float: left;
+    }
+    .navigation-dropdown ul {
+        padding-top: 0;
+        border-bottom: 0;
+    }
+    .navigation-box span {
+        max-width: 80%;
+    }
+    .inbox{
+        margin-bottom: 24px
+    }
+    .inbox-search-wrapp {
+        padding-right: 15px; 
+    }
+    .messages-head,
+    .inbox-data-text{
+        display: none;
+    }
+    .tabs-sidebar{
+        height: auto;
+        padding-right: 15px; 
+    }
+    .tabs-sidebar .inbox-date {
+        margin: -23px 0 0 90px;
+    }
+    .tabs-sidebar .inbox-data .inbox-data-name {
+        margin: 8px 0 4px 0;
+    }
+    .tabs-content-wrapp {
+        padding-left: 15px;
+    }
+    .tabs-content-chat input {
+        max-width: 43%;
+    }
+    .tabs-content-chat .send-bid .jcf-button, .tabs-content-chat .send-message .jcf-button {
+        width: 110px;
+        margin-left: 5px;
+        font-size: 13px;
+    }
+    #tabs{
+        margin-bottom: 0
+    }
+    #tabs,
+    .tabs-content-box ul {
+        max-height: 579px;
+        height: auto;
+    }
+    .footer-block{
+        width: 33%;
+        float: left;
+    }
+    .tabs-content-box ul {
+        padding: 0 25px;
+    }
+    .login {
+        width: 90%;
+    }
+    .social-account .login-list{
+        margin-top: 10px
+    }
+    .login-list li.divider{
+        width: 100%;
+        height: 1px;
+        float: left;
+        margin-top: 10px;
+        border-right: 0;
+        border-top: 1px solid #e7e7e7;
+    }
+    .login-list li,
+    .login-list li:last-child {
+        width: 100%;
+        float: left;
+        display: inline;
+        margin: 8px 0 0 0;
+        text-align: center;
+    }
+    .login-list li a br{
+        display: none;
+    }
+    #create-account{
+        margin-bottom: 25px
+    }
+    .tables-wrapp-box{
+        width: 70%;
+        margin-left: 15%
+    }
+    .tables-box ul {
+        min-height: 50px;
+    }
+    .discount-box{
+        text-align: center;
+    }
+    .tables-wrapp {
+        margin-top: 40px;
+    }
+    .user-shopping{
+        margin: 15px 0 0 0;
+    }
+    .user-selling ul li.name {
+        max-width: 59%;
+    }
+    .user-head .rate {
+        clear: both;
+        margin: 10px auto 0 auto;
+        display: block;
+        float: none;
+    }
+    .rate span{
+        width: 100%;
+        text-align: center;
+    }
+    .user-contacts .address{
+        width: 40%;
+        float: left;
+    }
+    .user-contacts .text{
+        width: 60%;
+        float: left;
+    }
+    .user-data-list-box{
+        width: 33%;
+        float: left;
+    }
+    .user-media-body-image{
+        width: 50%;
+        margin-bottom: 20px
+    }
+    .review-box .rate {
+        margin: 12px 0 0 90px;
+        clear: both;
+        float: left!important;
+    }
+    .user-data-list ul li p,
+    .user-data-list ul li span {
+        width: 100%;
+    }
+    .user-head .send-message {
+        width: 100%;
+        clear: both;
+        float: left!important;
+        margin: 10px 0px 0 3px;
+        text-align: center;
+    }
+    .user-head .send-message a{
+        float: none;
+        display: inline-block;
+        margin: 0 auto;    
+    }
+    .register-body {
+        width: 100%;
+        margin: 17px 0 ;
+    }
+    .register-body form{
+        width: 95%;
+        margin: 0 2.5%
+    }
+    .register-body h2{
+        clear: both;
+        text-align: center;
+    }
+    .register-body .form-group.half {
+        width: 48%;
+    }
+    .register-note{
+        width: 100%;
+        text-align: center;
+    }
+    .register-head{
+        width: 95%;
+        margin: 50px 2.5% 0 2.5%;
+        text-align: center;
+    }
+    .register-head .register-dec {
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+    .register-head p br{
+        display: none;
+    }
+    .register-body .form-group.two-third {
+        width: 60%;
+    }
+    .register-body .form-group.one-third {
+        width: 36%;
+    }
+    .password{
+        text-align: center;
+    }
+    .forgot-password {
+        display: block;
+        margin: 0 auto;
+        float: none;
+        text-align: center;
+    }
+    .form-group-checkbox{
+        width: auto;
+        float: none!important;
+        display: inline-block;
+        clear: both;
+        margin: 10px auto 0 auto;
+    }
+    .user-buying,
+    .user-selling h4{
+        text-align: center;
+    }
+    .user-selling ul{
+        width: 100%;
+    }
+    .user-selling ul li,
+    .user-selling ul li.date,
+    .user-selling ul li.hour,
+    .user-selling ul li.name{
+        max-width: 100%;
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .user-data {
+        width: 100%;
+        max-width: 100%;
+        margin: 18px 0 0 0px;
+        text-align: center;
+    }
+    .user-image {
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+    .user-shopping {
+        margin: 18px auto 0 auto;
+        display: inline-block;
+        float: none;
+    }
+     .user-data ul li {
+        display: block;
+    }
+    .popup-wrapp {
+        padding: 30px;
+    }
+    .form-group.ammount, .form-group.bid-number{
+        width: 100%
+    }
+    .form-group.time, .form-group.date{
+        width: 48%;
+        margin-left: 0
+    }
+    .form-group-results.long,
+    .popup-body .jcf-textarea{
+        height: 180px;
+        margin: 15px 0 0 0
+    }
+    .form-group.upload {
+        max-width: 100%;
+    }
+    .popup-price,
+    .bid-choose{
+        width: 100%;
+        text-align: center;
+    }
+    .popup-body .bid-choose .jcf-button {
+        width: 175px;
+    }
+    .popup-body .form-group.submit {
+        text-align: center;
+        width: 100%;
+    }
+     .popup-discount{
+        width: 100%;
+        margin-bottom: 0;
+        text-align: center;
+     }
+     .profile-dropdown{
+        top: -10px
+     }
+     .main-search input[type="text"] {
+        width: 39%;
+    }
+    .categories-box{
+        width: 50%;
+        margin-bottom: 15px;
+    }
+    .store-text{
+        text-align: center;
+    }
+    .store-text .store-download{
+        float: none;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .store-text .store-logo {
+        width: auto;
+        max-width: 115px;
+        clear: both;
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+    .footer-navigation ul{
+        text-align: center;
+    }
+    .footer-navigation ul li{
+        float: none;
+        display: inline-block;
+    }
+     .footer-subnavigation ul{
+        width: 100%;
+        text-align: center;
+    }
+    .footer-subnavigation ul li {
+        display: block;
+        margin-bottom: 30px;
+    }
+/*
+    .footer-subnavigation ul:nth-child(3n+1){
+        clear: both;
+    }
+    .footer-subnavigation ul:nth-child(4n+1){
+        clear: none;
+    }
+*/
+    #map_canvas {
+        height: 300px;
+    }
+    .filters-left,
+    .filters-right,
+    .filters-expand-left,
+    .filters-expand-right{
+        width: 100%;
+        float: left;
+    }
+    .filters-right{
+        margin-top: 15px;
+    }
+    .filters-expand .form-group-checkbox {
+        width: 32%;
+        margin: 0 0 20px 0;
+    }
+    .results-box .user-image{
+        margin: 0 auto 40px auto
+    }
+    .results-box .results-user-data{
+        width: 50%;
+        clear: both;
+        text-align: center;
+    }
+    .results-box .results-user-data .rate{
+        float: none;
+        margin: 0 auto
+    }
+    .results-box .results-user {
+        width: 50%;
+        margin: 10px 0 0 0;
+        text-align: center;
+    }
+    .results-box .results-user .results-user-range{
+        width: 100%;
+        margin-top: 0
+    }
+    .results-box .results-contacts {
+        width: 100%;
+        margin: 15px 0 0 0;
+    }
+    .results-message{
+        width: 100%;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .results-message a{
+        float: none;
+        margin: 0 auto;
+        display: block;
+    }
+    .results-box .results-user .results-user-list li{
+        margin: 0 7px;
+    }
+}
+@media all and (max-width: 479px){
+    .footer-wrapp {
+        padding: 20px 0 0 0;
+    }
+    .footer-block {
+        width: 100%;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .footer-block .line-dec {
+        width: 28px;
+        float: none;
+        display: block;
+        margin: 8px auto 0 auto;
+    }
+    .copyrights{
+        margin-top: 20px
+    }
+    .app-download {
+        margin: 1px 0 0 0;
+    }
+    .profile-user {
+        clear: both;
+        margin: 15px 0 0 0
+    }
+    .profile .language {
+        margin-top: -21px;
+    }
+    .profile-notifications {
+        margin: 0 0 0 20px;
+    }
+    .profile-dropdown{
+        right: initial;
+        left: 0
+    }
+    .tabs-message .tabs-message-text {
+        width: 100%;
+    }
+    .tabs-message .tabs-message-date {
+        top: 35px;
+    }
+    .tabs-content-chat{
+        bottom: -1px;
+        padding: 5px 30px;
+   }
+   .tabs-content-chat input{
+        max-width: 100%;
+   }
+   .tabs-content-chat .send-bid .jcf-button,
+   .tabs-content-chat .send-message .jcf-button {
+        width: 100px;
+        margin-left: 5px;
+        font-size: 12px;
+        padding: 0;
+        height: 24px;
+        line-height: 24px;
+    }
+    .tables-wrapp-box{
+        width: 95%;
+        margin-left: 2.5%
+    }
+    .user-selling ul li.name {
+        width: 100%;
+        max-width: 100%;
+        clear: both;
+        margin-top: 4px;
+    }
+    .user-image {
+        margin-left: 0;
+        margin: 0 auto;
+        float: none;
+    }
+    .user-data {
+        width: 100%;
+        max-width: 100%;
+        margin: 18px 0 0 0;
+        text-align: center;
+    }
+     .user-selling ul{
+        width: 100%;
+        float: left;
+     }
+    .review-box .review-data {
+        width: 100%;
+        margin-left: 0
+    }
+    .review-box .rate {
+        float: none!important;
+        margin: 0 auto;
+        padding-top: 12px;
+    }
+    .user-data-list-box {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .user-data-list ul li p, .user-data-list ul li span {
+        width: 50%;
+    }
+    .user-media-body-image {
+        width: 100%;
+    }
+    .user-media-image {
+        height: 300px;
+    }
+     .user-contacts .address,
+    .user-contacts .text{
+        width: 100%;
+    }
+    .register-body .form-group.half {
+        width: 100%;
+    }
+    .register-body .form-group.two-third,
+    .register-body .form-group.one-third {
+        width: 100%;
+    }
+    .user-contacts ul {
+        padding-left: 0;
+        padding-top: 39px;
+        background: url(../img/user/address.png) no-repeat top center;
+    }
+    .user-contacts,
+    .user-contacts .text p,
+    .user-contacts .text h2,
+    .user-data-list h5,
+    .user-contacts h5,
+    .user-reviews h3,
+    .user-media-head h3,
+    .user-data-list ul li,
+    .user-data-list .social ul{
+        text-align: center;
+    }
+    .user-data-list .social ul li{
+        display: inline-block;
+    }
+    .user-data-list ul li p{
+        width: 49%;
+        text-align: right;
+    }
+    .user-data-list ul li span{
+        width: 49%;
+        float: right;
+    }
+    .review-box .review-img{
+        float: none;
+        margin: 0 auto
+    }
+    .review-box .review-data{
+        text-align: center;
+    }
+     .user-reviews h3{
+        width: 100%;
+        text-align: center;
+     }
+     .popup-body .form-group.submit,
+     .form-group.time, .form-group.date{
+        width: 100%
+     }
+     .popup-body .form-group.submit{
+        margin-bottom: 0
+     }
+     .popup-body .bid-choose .jcf-button {
+        width: 109px!important;
+    }
+    .popup-body .bid-choose .decline .jcf-button {
+        background: #dc6465 url(../img/template-icons/decline.jpg) no-repeat 69px center;
+        text-indent: -20px;
+    }
+    .popup-body .bid-choose .accept .jcf-button {
+        background: #22b25b url(../img/template-icons/accept.jpg) no-repeat 79px center;
+        text-indent: -20px;
+    }
+    .popup-body .form-group .jcf-button {
+        width: 200px;
+    }
+    .popup-wrapp {
+        width: 85%;
+        padding: 15px;
+    }
+    .profile-notifications-dropdown {
+        width: 310px;
+        top: 40px;
+        left: 0;
+        margin-left: -141px;
+    }
+    .profile-notifications-list li{
+        padding: 0 15px
+    }
+    .profile-notifications-list li a{
+        width: 100%;
+        margin: 0
+    }
+    .profile-notifications-list .profile-notifications-text{
+        width: 200px;
+        margin-top: 5px;
+    }
+    .profile-notifications-list .profile-notifications-text p{
+        display: none;
+    }
+    .profile-notifications-list .profile-notifications-time {
+        position: relative;
+        top: 0;
+        float: left;
+        clear: both;
+        margin: -23px 0 0 65px;
+    }
+    .categories-box{
+        width: 100%;
+    }
+    .main-search .jcf-select {
+        clear: both;
+        margin: 10px auto 0 auto;
+        float: none;
+        display: block;
+        border-radius: 30px
+    }
+    .main-search input[type="text"] {
+        width: 64%;
+        margin-bottom: 10px
+    }
+    .footer-subnavigation ul{
+        width: 100%;
+    }
+    .footer-subnavigation ul li {
+        display: block;
+        margin-bottom: 30px;
+    }
+/*
+    .footer-subnavigation ul:nth-child(2n+1){
+        clear: both;
+    }
+    .footer-subnavigation ul:nth-child(3n+1){
+        clear: none;
+    }
+*/
+    .filters .jcf-select, .filters #filters-trigger{
+        max-width: 100%;
+        margin: 0
+    }
+    .filters #filters-trigger{
+        margin-bottom: 15px
+    }
+    .results-box .results-user,
+    .results-box .results-user-data,
+    .results-box .results-address-box{
+        width: 100%;
+    }
+    .results-box .results-address-box{
+        border: 0
+    }
+}

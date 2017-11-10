@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'send_message' => 'Send message',
+    'contact' => 'Contact',
+    'info' => 'Info',
+    'monday' => 'Monday',
+    'tuesday' => 'Tuesday',
+    'wednesday' => 'Wednesday',
+    'thursday' => 'Thursday',
+    'friday' => 'Friday',
+    'saturday' => 'Saturday',
+    'sunday' => 'Sunday',
+    'address' => 'Address',
+    '247' => 'Opened non-stop',
+    'home_delivery' => 'Home delivery',
+    'phones' => 'Phone',
+    'chose_cat' => 'Chose category',
+    'chose_city' => 'Chose town',
+    'filters' => 'Filters',
+    'distance' => 'By distance',
+    'online_paying' => 'Online paying',
+    'messages' => 'All messages',
+    'openedAtm' => 'Open',
+    'closedAtm' => 'Closed',
+    'add_image' => 'Add image',
+    'working_hours' => 'Dodaj sliku',
+    'to_from' => 'To',
+    'from_to' => 'From',
+    'save_hours' => 'Save working hours',
+    'success' => 'Success'
+];
